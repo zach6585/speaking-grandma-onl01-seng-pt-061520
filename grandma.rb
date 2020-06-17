@@ -11,6 +11,7 @@ def speak_to_grandma(phrase)
   else
     "NO, NOT SINCE 1938"
     return
+  end
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
